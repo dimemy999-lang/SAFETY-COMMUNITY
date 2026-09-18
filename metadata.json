@@ -1,0 +1,6 @@
+{
+  "name": "TrustPoint Safety & Improvement Portal",
+  "description": "ระบบรับเรื่องรายงานความปลอดภัย จุดอันตราย และข้อเสนอแนะพัฒนาองค์กร พร้อมระบบคุ้มครองผู้แจ้งเบาะแส AES-256 และการติดตามสถานะ SLA แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
